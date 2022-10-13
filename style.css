@@ -1,0 +1,30 @@
+.nav {
+  background: transparent;
+  color: black;
+  box-shadow: none;
+}
+
+.nav a {
+  color: whitesmoke;
+}
+
+section,
+footer {
+  padding: 20px 0;
+}
+.parallax {
+  background: rgb(20, 17, 46);
+  height: 500px;
+  width: 100%;
+}
+
+#card {
+  background-color: #0e1a40;
+  color: white;
+  transition: 0.2s;
+}
+#card:hover {
+  color: aqua;
+  border-bottom: 1px solid red;
+  background: aliceblue;
+}
